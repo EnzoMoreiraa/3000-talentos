@@ -1,0 +1,24 @@
+1. Trocar uma lâmpada
+
+1-Se direcionar até a chave do lugar
+2-Desligar a chave correspondente a área em que a lâmpada se encontra
+3-Pegue a nova lâmpada
+4-Se direcionar até a lâmpada que deseja ser trocada
+4.1-Caso a lâmpada não esteja acessível por causa de altura, procurar uma escada
+5-Remover a lâmpada
+6-Adicionar a nova lâmpada
+6.1-Caso necessário, descer da escada
+7-Se direcionar até a chave do lugar
+8-Ligar novamente a chave correspondente a área em que a lâmpada se encontra
+
+2. Ir até o Senac
+
+1-Sair de casa
+2-Escolher o meio de transporte
+2.1-Caso for Uber, peça-o
+2.2-Caso seja um ônibus, se direcione até a parada
+2.3- Caso seja caminhando, caminhe até a entrada da Unisinos
+3-Após descer de seu meio de transporte, se direcione até a entrada mais próxima da Unisinos
+4-Encontre um mapa
+5-Siga a rota mais simples até o prédio do Senac
+6-Entre no prédio do Senac
